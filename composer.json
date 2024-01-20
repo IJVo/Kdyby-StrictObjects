@@ -1,5 +1,5 @@
 {
-    "name": "kdyby/strict-objects",
+    "name": "ijvo/kdyby-strict-objects",
     "type": "library",
     "description": "Simple trait to make your class strict, when calling or accessing undefined member (property or method).",
     "keywords": ["kdyby", "strict", "object", "scream", "magic", "accessors", "properties", "methods", "members", "exceptions"],
@@ -17,7 +17,7 @@
         "issues": "https://github.com/Kdyby/StrictObjects/issues"
     },
     "require": {
-        "php": "^7.2"
+        "php": "^7.2 || ^8.0"
     },
     "require-dev": {
         "doctrine/coding-standard": "^4.0",
